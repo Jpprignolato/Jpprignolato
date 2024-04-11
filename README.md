@@ -1,6 +1,5 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Jpprignolato&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=omni&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Jpprignolato&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jpprignolato&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=omni&hide_border=false&custom_title=Linguagens%20usadas:" height="150" alt="languages graph"  />
 </div>
 
