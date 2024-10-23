@@ -1,7 +1,9 @@
-![Jpprignolato's Stats](https://github-readme-stats.vercel.app/api?username=Jpprignolato&theme=radical&show_icons=true&hide_border=false&count_private=true)
-![Jpprignolato's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jpprignolato&theme=radical&hide_border=false)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Jpprignolato&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Jpprignolato&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jpprignolato&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Jpprignolato&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
-![Jpprignolato's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jpprignolato&theme=radical&show_icons=true&hide_border=false&layout=compact)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
